@@ -24,6 +24,7 @@ public class ExGeneric4
     {
         Myarray <Integer,Double> m=new Myarray<>();
         Myarray< String,String> s=new Myarray<>();
+        // we can also pass multiple arguments/data types
         m.append(10);
         m.append(15);
         m.append(16);
